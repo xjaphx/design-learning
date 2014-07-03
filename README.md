@@ -75,6 +75,7 @@ http://www.photoshop-plus.co.uk/2011/10/12/windows-8-inspired-portfolio-layout/
 1. http://design.tutsplus.com/tutorials/tilt-shift-video--psd-13268
 1. http://design.tutsplus.com/tutorials/create-a-3d-fruit-textured-text-effect--cms-20050
 1. http://design.tutsplus.com/tutorials/create-an-illuminated-text-effect-in-photoshop--psd-36705
+1. http://design.tutsplus.com/tutorials/how-to-create-custom-dirt-typography--psd-34896
 
 ## Design Poster
 1. http://psd.fanextra.com/tutorials/designing/design-a-professional-wildlife-tv-show-poster/
