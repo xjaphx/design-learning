@@ -9,6 +9,7 @@ The ultimate bookmark list of links for learning graphic design.
 1. http://www.photoshop-plus.co.uk/2011/05/31/learn-to-create-a-clean-style-portfolio-layout/
 1. http://grafpedia.com/tutorials/how-to-design-a-business-web-layout
 1. http://webdesign.tutsplus.com/tutorials/basics-create-a-clean-magazine-blog-theme-day-1-design--webdesign-2938
+1. http://grafpedia.com/tutorials/design-video-game-web-layout
 
 ## Design Mobile App
 1. http://design.tutsplus.com/tutorials/create-a-mobile-downloader-app-interface-in-photoshop--psd-37219
