@@ -19,7 +19,8 @@ The ultimate bookmark list of links for learning graphic design.
 1. http://webdesign.tutsplus.com/tutorials/design-a-warm-cheerful-website-interface-in-adobe-photoshop/
 1. http://www.visualswirl.com/tutorials/create-clean-minimal-web-design-photoshop/
 1. http://www.photoshop-plus.co.uk/2010/11/09/magazine-styled-blog-layout/
-
+http://www.photoshop-plus.co.uk/2011/10/12/windows-8-inspired-portfolio-layout/
+1. 
 ## Design Mobile App
 1. http://design.tutsplus.com/tutorials/create-a-mobile-downloader-app-interface-in-photoshop--psd-37219
 1. http://design.tutsplus.com/tutorials/how-to-design-an-ios-7-email-app-in-photoshop--psd-36068
