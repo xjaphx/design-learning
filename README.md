@@ -44,7 +44,7 @@ http://www.photoshop-plus.co.uk/2011/10/12/windows-8-inspired-portfolio-layout/
 1. http://siahdesign.com/archives/948
 1. http://nunosk8.deviantart.com/art/Logo-Presentation-tutorial-102021690
 1. http://design.tutsplus.com/tutorials/create-an-address-book-icon-in-photoshop--psd-37756
-
+1. http://medialoot.com/blog/how-to-create-a-location-map-icon-in-photoshop/
 
 ## Design Email
 1. http://pixelhint.com/email-template-design-tutorial-how-to-design-an-ecommerce-email-template/
