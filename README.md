@@ -21,3 +21,4 @@ The ultimate bookmark list of links for learning graphic design.
 
 ## Design Interface
 1. http://design.tutsplus.com/tutorials/quick-tip-create-a-round-switch-button-in-photoshop--psd-16955
+1. http://design.tutsplus.com/tutorials/create-a-mobile-checkers-game-interface-in-photoshop--psd-36818
