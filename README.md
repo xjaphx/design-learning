@@ -19,6 +19,7 @@ The ultimate bookmark list of links for learning graphic design.
 
 ## Design Logo / Icon
 1. http://www.creativebloq.com/app-design/design-photorealistic-app-icon-photoshop-5132677
+1. http://design.tutsplus.com/tutorials/creating-a-modern-glossy-mouse-icon-in-photoshop--psd-5881
 
 ## Design Email
 1. http://pixelhint.com/email-template-design-tutorial-how-to-design-an-ecommerce-email-template/
