@@ -67,3 +67,4 @@ http://www.photoshop-plus.co.uk/2011/10/12/windows-8-inspired-portfolio-layout/
 1. http://www.photoshoptutorials.ws/photoshop-tutorials/special-effects/quick-tip-create-triangle-pixelation-effect-photoshop/
 1. http://www.photoshoptutorials.ws/photoshop-tutorials/text-effects/create-inspirational-3d-gold-text-photoshop-extended/
 1. http://www.photoshoptutorials.ws/photoshop-tutorials/special-effects/create-colorful-retro-poster-easy-steps/
+1. http://textuts.com/chocolate-bar-text-effect/
