@@ -70,6 +70,7 @@ http://www.photoshop-plus.co.uk/2011/10/12/windows-8-inspired-portfolio-layout/
 1. http://textuts.com/chocolate-bar-text-effect/
 1. http://textuts.com/chocolate-bar-text-effect/
 1. http://textuts.com/oz-the-great-and-powerful-inspired-text-effect/
+1. http://design.tutsplus.com/tutorials/tilt-shift-video--psd-13268
 
 ## Design Poster
 1. http://psd.fanextra.com/tutorials/designing/design-a-professional-wildlife-tv-show-poster/
