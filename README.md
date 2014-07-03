@@ -16,6 +16,8 @@ The ultimate bookmark list of links for learning graphic design.
 ## Design Email
 1. http://pixelhint.com/email-template-design-tutorial-how-to-design-an-ecommerce-email-template/
 
-## Design Interface
+## Design Dashboard
 1. http://pixelhint.com/interface-design-tutorial-design-beautiful-dashboard-template-in-photoshop/
+
+## Design Interface
 1. http://design.tutsplus.com/tutorials/quick-tip-create-a-round-switch-button-in-photoshop--psd-16955
