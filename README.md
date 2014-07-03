@@ -21,6 +21,7 @@ The ultimate bookmark list of links for learning graphic design.
 1. http://www.photoshop-plus.co.uk/2010/11/09/magazine-styled-blog-layout/
 http://www.photoshop-plus.co.uk/2011/10/12/windows-8-inspired-portfolio-layout/
 1. http://psd.fanextra.com/tutorials/how-to-create-an-effective-coming-soon-page/
+1. http://grafpedia.com/tutorials/design-a-vintage-portfolio-layout-using-photoshop
 
 ## Design Mobile App
 1. http://design.tutsplus.com/tutorials/create-a-mobile-downloader-app-interface-in-photoshop--psd-37219
