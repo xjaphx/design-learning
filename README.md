@@ -25,6 +25,7 @@ The ultimate bookmark list of links for learning graphic design.
 1. http://design.tutsplus.com/tutorials/how-to-design-an-ios-7-email-app-in-photoshop--psd-36068
 1. http://design.tutsplus.com/tutorials/create-a-mobile-weather-app-interface-in-photoshop--psd-33332
 1. http://design.tutsplus.com/tutorials/how-to-design-an-iphone-music-player-app-interface-with-photoshop-cs6--psd-21825
+1. http://medialoot.com/blog/how-to-design-an-ios-7-inspired-iphone-app-screen/
 
 ## Design Logo / Icon
 1. http://www.creativebloq.com/app-design/design-photorealistic-app-icon-photoshop-5132677
