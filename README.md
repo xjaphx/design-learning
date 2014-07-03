@@ -10,6 +10,7 @@ The ultimate bookmark list of links for learning graphic design.
 ## Design Mobile App
 1. http://design.tutsplus.com/tutorials/create-a-mobile-downloader-app-interface-in-photoshop--psd-37219
 1. http://design.tutsplus.com/tutorials/how-to-design-an-ios-7-email-app-in-photoshop--psd-36068
+1. http://design.tutsplus.com/tutorials/create-a-mobile-weather-app-interface-in-photoshop--psd-33332
 
 ## Design Email
 1. http://pixelhint.com/email-template-design-tutorial-how-to-design-an-ecommerce-email-template/
