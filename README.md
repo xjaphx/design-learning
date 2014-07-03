@@ -38,6 +38,7 @@ http://www.photoshop-plus.co.uk/2011/10/12/windows-8-inspired-portfolio-layout/
 1. http://justcreative.com/2009/11/02/logo-design-tutorial/
 1. http://layersmagazine.com/artistic-expression-logo-design-from-start-to-finish.html
 1. http://betterbusinessbrand.com/example-logo-design-process
+1. http://blog.spoongraphics.co.uk/tutorials/logo-design-project-step-by-step-walkthrough
 
 ## Design Email
 1. http://pixelhint.com/email-template-design-tutorial-how-to-design-an-ecommerce-email-template/
