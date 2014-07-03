@@ -6,6 +6,7 @@ The ultimate bookmark list of links for learning graphic design.
 1. http://pixelhint.com/web-design-tutorial-learn-how-to-design-a-website-scratch-photoshop/
 1. http://pixelhint.com/web-design-tutorial-learn-how-to-design-clean-agency-website/
 1. http://design.tutsplus.com/tutorials/create-a-one-page-retro-web-design-layout-in-photoshop--psd-16253
+1. http://www.photoshop-plus.co.uk/2011/05/31/learn-to-create-a-clean-style-portfolio-layout/
 
 ## Design Mobile App
 1. http://design.tutsplus.com/tutorials/create-a-mobile-downloader-app-interface-in-photoshop--psd-37219
@@ -22,3 +23,4 @@ The ultimate bookmark list of links for learning graphic design.
 ## Design Interface
 1. http://design.tutsplus.com/tutorials/quick-tip-create-a-round-switch-button-in-photoshop--psd-16955
 1. http://design.tutsplus.com/tutorials/create-a-mobile-checkers-game-interface-in-photoshop--psd-36818
+
