@@ -29,6 +29,7 @@ http://www.photoshop-plus.co.uk/2011/10/12/windows-8-inspired-portfolio-layout/
 1. http://design.tutsplus.com/tutorials/create-a-mobile-weather-app-interface-in-photoshop--psd-33332
 1. http://design.tutsplus.com/tutorials/how-to-design-an-iphone-music-player-app-interface-with-photoshop-cs6--psd-21825
 1. http://medialoot.com/blog/how-to-design-an-ios-7-inspired-iphone-app-screen/
+1. http://www.photoshop-plus.co.uk/2012/04/13/clean-mobile-login-screen-tutorial/
 
 ## Design Logo / Icon
 1. http://www.creativebloq.com/app-design/design-photorealistic-app-icon-photoshop-5132677
