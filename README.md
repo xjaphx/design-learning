@@ -45,6 +45,7 @@ http://www.photoshop-plus.co.uk/2011/10/12/windows-8-inspired-portfolio-layout/
 1. http://nunosk8.deviantart.com/art/Logo-Presentation-tutorial-102021690
 1. http://design.tutsplus.com/tutorials/create-an-address-book-icon-in-photoshop--psd-37756
 
+
 ## Design Email
 1. http://pixelhint.com/email-template-design-tutorial-how-to-design-an-ecommerce-email-template/
 
@@ -72,6 +73,7 @@ http://www.photoshop-plus.co.uk/2011/10/12/windows-8-inspired-portfolio-layout/
 1. http://textuts.com/chocolate-bar-text-effect/
 1. http://textuts.com/oz-the-great-and-powerful-inspired-text-effect/
 1. http://design.tutsplus.com/tutorials/tilt-shift-video--psd-13268
+1. http://design.tutsplus.com/tutorials/create-a-3d-fruit-textured-text-effect--cms-20050
 
 ## Design Poster
 1. http://psd.fanextra.com/tutorials/designing/design-a-professional-wildlife-tv-show-poster/
