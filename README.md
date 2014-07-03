@@ -39,6 +39,7 @@ http://www.photoshop-plus.co.uk/2011/10/12/windows-8-inspired-portfolio-layout/
 ## Design Dashboard / Widget
 1. http://pixelhint.com/interface-design-tutorial-design-beautiful-dashboard-template-in-photoshop/
 1. http://designmodo.com/instagram-widget-psd/
+1. http://psd.tutsplus.com/tutorials/interface-tutorials/administrator-dashboard-interface/
 
 ## Design Form
 1. http://www.photoshop-plus.co.uk/2011/11/23/learn-how-to-create-a-modern-login-form/
