@@ -88,3 +88,4 @@ http://www.photoshop-plus.co.uk/2011/10/12/windows-8-inspired-portfolio-layout/
 
 ## Design Poster
 1. http://psd.fanextra.com/tutorials/designing/design-a-professional-wildlife-tv-show-poster/
+1. http://www.psdbox.com/tutorials/create-a-3d-poster-with-cinema-4d-and-photoshop/
