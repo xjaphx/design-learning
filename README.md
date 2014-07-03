@@ -48,6 +48,7 @@ http://www.photoshop-plus.co.uk/2011/10/12/windows-8-inspired-portfolio-layout/
 1. http://dailyinspiration.nl/tutorial-create-3d-logo-with-polygonal-lasso-tool
 1. http://www.zenelements.com/blog/create-an-origami-logo/
 1. http://www.adobetutorialz.com/articles/3043/1/Umbrella-Corporation-logo
+1. http://10steps.sg/photoshop/making-of-metallic-transformers-logo/
 
 ## Design Email
 1. http://pixelhint.com/email-template-design-tutorial-how-to-design-an-ecommerce-email-template/
