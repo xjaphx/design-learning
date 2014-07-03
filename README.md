@@ -16,6 +16,7 @@ The ultimate bookmark list of links for learning graphic design.
 1. http://design.tutsplus.com/tutorials/design-a-cartoon-grunge-website-layout--psd-152
 1. http://design.tutsplus.com/tutorials/how-to-create-a-grunge-web-design-in-photoshop--psd-311
 1. http://design.tutsplus.com/tutorials/designing-an-elegant-blog-layout-in-photoshop--cms-20972
+1. http://webdesign.tutsplus.com/tutorials/design-a-warm-cheerful-website-interface-in-adobe-photoshop/
 
 ## Design Mobile App
 1. http://design.tutsplus.com/tutorials/create-a-mobile-downloader-app-interface-in-photoshop--psd-37219
