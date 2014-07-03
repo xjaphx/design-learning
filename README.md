@@ -42,6 +42,7 @@ http://www.photoshop-plus.co.uk/2011/10/12/windows-8-inspired-portfolio-layout/
 1. http://webdesignerwall.com/tutorials/dache-logo-design-process
 1. http://www.republicofcode.com/tutorials/photoshop/volkswagen/
 1. http://siahdesign.com/archives/948
+1. http://nunosk8.deviantart.com/art/Logo-Presentation-tutorial-102021690
 
 ## Design Email
 1. http://pixelhint.com/email-template-design-tutorial-how-to-design-an-ecommerce-email-template/
