@@ -51,6 +51,7 @@ http://www.photoshop-plus.co.uk/2011/10/12/windows-8-inspired-portfolio-layout/
 1. http://10steps.sg/photoshop/making-of-metallic-transformers-logo/
 1. http://www.avivadirectory.com/photoshop/creating-a-retro-logo/
 1. http://ibrandstudio.com/tutorials/make-your-logo-a-3d-look-with-photoshop
+1. http://drawingclouds.com/2009/05/create-a-watercolor-logo-in-photoshop/
 
 ## Design Email
 1. http://pixelhint.com/email-template-design-tutorial-how-to-design-an-ecommerce-email-template/
