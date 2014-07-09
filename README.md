@@ -77,6 +77,7 @@ http://www.photoshop-plus.co.uk/2011/10/12/windows-8-inspired-portfolio-layout/
 1. http://tutorialqueen.com/photoshop-tutorials/photoshop-tutorial-website-pill-button-icon-design-in-photoshop
 1. http://www.psfreak.com/vista-styled-button
 1. http://www.estrellastudios.com/blog/blog-print/print-design-creating-buttons-in-photoshop/
+1. http://www.photoshopstar.com/web-graphics/star-badges/
 
 ## Design Effect
 1. http://www.photoshoptutorials.ws/photoshop-tutorials/basics/quick-tip-correct-create-curved-text/
