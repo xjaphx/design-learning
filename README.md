@@ -81,6 +81,7 @@ http://www.photoshop-plus.co.uk/2011/10/12/windows-8-inspired-portfolio-layout/
 1. http://nobstutorials.deviantart.com/art/Glossy-Button-Tutorial-65670723
 1. http://coregfx.org/tutorials/create-small-colorful-buttons-in-photoshop/
 1. http://yesterdayishere.com/now/log/iphone-like-button-in-photoshop/
+1. http://digicraft.blogspot.com/2008/04/learn-how-to-creatively-create-glass.html
 
 ## Design Effect
 1. http://www.photoshoptutorials.ws/photoshop-tutorials/basics/quick-tip-correct-create-curved-text/
