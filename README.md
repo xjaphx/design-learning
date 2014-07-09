@@ -92,6 +92,7 @@ http://www.photoshop-plus.co.uk/2011/10/12/windows-8-inspired-portfolio-layout/
 1. http://www.photoshopstar.com/web-graphics/glossy-style-carbon-fibre-navigation-set/
 1. http://www.photoshopstar.com/web-graphics/satisfaction-guaranteed-seal-or-badge/
 1. http://freephotoshopguides.com/interface-elements/web20-badges/
+1. http://alondivix.deviantart.com/art/Glossy-buttons-tutorial-112831860
 
 ## Design Effect
 1. http://www.photoshoptutorials.ws/photoshop-tutorials/basics/quick-tip-correct-create-curved-text/
