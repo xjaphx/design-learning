@@ -86,6 +86,7 @@ http://www.photoshop-plus.co.uk/2011/10/12/windows-8-inspired-portfolio-layout/
 1. http://grimdar.deviantart.com/art/How-to-make-a-cool-button-42297608
 1. http://psd.tutsplus.com/tutorials/photo-effects-tutorials/photoshop-button-maker/
 1. http://tutorialtab.net/?p=82
+1. http://www.freedivs.com/tutorials/Cool%20Blue%20Buttons/
 
 ## Design Effect
 1. http://www.photoshoptutorials.ws/photoshop-tutorials/basics/quick-tip-correct-create-curved-text/
