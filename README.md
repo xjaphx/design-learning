@@ -88,6 +88,7 @@ http://www.photoshop-plus.co.uk/2011/10/12/windows-8-inspired-portfolio-layout/
 1. http://tutorialtab.net/?p=82
 1. http://www.freedivs.com/tutorials/Cool%20Blue%20Buttons/
 1. http://adobeperson.com/photoshop-basic-drawings/photoshop-calculater-button-logo-icon
+1. http://www.photoshopstar.com/web-graphics/nice-simple-subscribe-badges/
 
 ## Design Effect
 1. http://www.photoshoptutorials.ws/photoshop-tutorials/basics/quick-tip-correct-create-curved-text/
