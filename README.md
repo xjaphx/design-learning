@@ -73,6 +73,7 @@ http://www.photoshop-plus.co.uk/2011/10/12/windows-8-inspired-portfolio-layout/
 1. http://www.photoshopstar.com/drawing/mini-music-player-adobe-photoshop/
 1. http://www.1stwebdesigner.com/tutorials/music-player-photoshop-tutorial/
 1. http://www.creativebloq.com/photoshop/make-web-button-71412252
+1. http://sixrevisions.com/tutorials/photoshop-tutorials/how-to-create-a-slick-and-clean-button-in-photoshop/
 
 ## Design Effect
 1. http://www.photoshoptutorials.ws/photoshop-tutorials/basics/quick-tip-correct-create-curved-text/
