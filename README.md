@@ -90,6 +90,7 @@ http://www.photoshop-plus.co.uk/2011/10/12/windows-8-inspired-portfolio-layout/
 1. http://adobeperson.com/photoshop-basic-drawings/photoshop-calculater-button-logo-icon
 1. http://www.photoshopstar.com/web-graphics/nice-simple-subscribe-badges/
 1. http://www.photoshopstar.com/web-graphics/glossy-style-carbon-fibre-navigation-set/
+1. http://www.photoshopstar.com/web-graphics/satisfaction-guaranteed-seal-or-badge/
 
 ## Design Effect
 1. http://www.photoshoptutorials.ws/photoshop-tutorials/basics/quick-tip-correct-create-curved-text/
