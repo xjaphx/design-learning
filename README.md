@@ -3,6 +3,7 @@ Graphic Design Learning
 The ultimate bookmark list of links for learning graphic design. 
 
 ## Design Website
+1. http://www.dzyngiri.com
 1. http://webdesign.tutsplus.com/articles/design-a-stylish-timeline-portfolio-page-using-photoshop--webdesign-17055
 1. http://pixelhint.com/web-design-tutorial-learn-how-to-design-a-website-scratch-photoshop/
 1. http://pixelhint.com/web-design-tutorial-learn-how-to-design-clean-agency-website/
